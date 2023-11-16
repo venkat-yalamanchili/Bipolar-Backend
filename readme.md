@@ -1,3 +1,6 @@
+Refer the doc for better understanding.
+
+
 Setup of Jenkins 
 
 Installation
@@ -44,5 +47,3 @@ While configuring we will check the Poll SCM
 Then inside the Schedule box " * * * * * " paste this . 
 
 This indicaes for every 1 min it will check the version control to build automatically if new commit has occurred.
-
-Refer the doc for better understanding.
